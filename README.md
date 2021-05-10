@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.githubassets.com/images/modules/site/home/footer-illustration.svg" alt="Illustration of the evolution of development by octocats">
 
 <!--
 **scotttesler/scotttesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
