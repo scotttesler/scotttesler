@@ -1,5 +1,10 @@
 <img width="1439" alt="Octocats in spaceship" src="https://user-images.githubusercontent.com/586779/118148716-dace5900-b3de-11eb-9a4d-e2414b38546f.png">
 
+![8 bit](https://user-images.githubusercontent.com/586779/119379404-70929f80-bc8d-11eb-9bc0-4d0929636edb.gif)
+![8 bit](https://user-images.githubusercontent.com/586779/119379404-70929f80-bc8d-11eb-9bc0-4d0929636edb.gif)
+![8 bit](https://user-images.githubusercontent.com/586779/119379404-70929f80-bc8d-11eb-9bc0-4d0929636edb.gif)
+![8 bit](https://user-images.githubusercontent.com/586779/119379404-70929f80-bc8d-11eb-9bc0-4d0929636edb.gif)
+
 <!--
 **scotttesler/scotttesler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
