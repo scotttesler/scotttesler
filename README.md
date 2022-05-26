@@ -1,1 +1,1 @@
-<img width="1439" alt="Octocats in spaceship" src="https://user-images.githubusercontent.com/586779/118148716-dace5900-b3de-11eb-9a4d-e2414b38546f.png">
+Stack Overflow profile: [![Scott Tesler StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/1399309)](https://stackoverflow.com/users/1399309/scott-tesler)
