@@ -1,8 +1,10 @@
-<!-- <picture>
+<!-- 
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://crd.so/i/scotttesler?dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://crd.so/i/scotttesler" />
   <img src="https://crd.so/i/scotttesler?dark" alt="scotttesler’s GitHub image" />
-</picture> -->
+</picture> 
+-->
 
 **Stack Overflow profile:**
 
@@ -14,8 +16,6 @@
   </picture>
 </a>
 
-<!--
 **Programmer joke:**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
--->
